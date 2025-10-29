@@ -1,4 +1,4 @@
-#  Apple Products Sales Data Analysis
+#  Apple Products Sales Data Analysis
 
 This project focuses on analyzing **Apple product sales data** to uncover key insights related to product performance, regional sales distribution, and revenue patterns.  
 Using **Python, Pandas, Matplotlib, and Seaborn**, I conducted an in-depth **Exploratory Data Analysis (EDA)** to understand how different Apple products contribute to overall sales and profitability.
