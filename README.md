@@ -73,9 +73,3 @@ These visualizations helped transform raw data into **actionable business insigh
 
 
 
-
-## 🧩 How to Run This Project
-
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/YourUsername/Apple-Products-Sales-Analysis.git
